@@ -1,12 +1,17 @@
-## 👋 Bienvenue sur mon 1er projet de Portfolio !
+# 👋 Welcome to my first Portfolio project!
 
-Je suis un jeune développeur passionné, actuellement en plein **apprentissage du Web** (HTML, CSS, JavaScript) et de **Python**. 
+I am a passionate young developer, currently diving deep into **Web Development** (HTML, CSS, JavaScript) and **Python**.
 
-### 🚀 Mon Objectif
-Je me prépare pour intégrer l'**École 42**. 
+### 🚀 My Goal
+I am intensively preparing to join **École 42**. This project is my first serious step into the world of professional development.
 
-### 🛠️ État du projet
-* **En cours :** Ajout de la transparence et rangement des dossiers.
+### 🛠️ Project Status
+* **In Progress:** Improving transparency effects and organizing folder structures.
+---
+
+### 📈 Follow my progress
+Feel free to check out my code or follow my GitHub profile to see my evolution until I enter 42!
+
 
 ---
 
