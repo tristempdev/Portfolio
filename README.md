@@ -16,6 +16,6 @@ N'hésitez pas à jeter un œil à mes fichiers de code ou à me suivre sur GitH
 ---
 <div align="center">
   <a href="https://tristempdev.github.io/Portfolio/index.html">
-    <img src="Portfolio tristemp/media/preview.png" alt="Aperçu du Portfolio" width="100%">
+    <img src="Portfolio tristemp/preview.png" alt="Aperçu du Portfolio" width="100%">
   </a>
 </div>
