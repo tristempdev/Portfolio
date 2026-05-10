@@ -1,2 +1,5 @@
-[![Aperçu de mon Portfolio](./preview.png)](https://tristempdev.github.io/Portfolio/)
-*Clique sur l'image pour accéder au site live*
+<div align= "center">
+  <a href="https://tristempdev.github.io/Portfolio/">
+  <img src="./preview.png" alt="Aperçu du Portfolio de Tristemp" width="100%">
+  </a>
+</div>
