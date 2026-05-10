@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(145deg, #070026, #000000);
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    overflow-x: hidden;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 5rem;
+    padding: 6rem 8%;
+}
+
+.main-txt{
+    flex: 1;
+    max-width: 750px;
+}
+
+.h2{
+    font-size: 4rem;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.h2::before{
+    content: "";
+    width: 14px;
+    height: 14px;
+    background: #a855f7;
+    border-radius: 50%;
+    margin-right: 16px;
+    box-shadow: 0 0 15px #a855f7;
+}
+
+.description{
+    color: rgba(255,255,255,0.75);
+    font-size: 1.35rem;
+    line-height: 2.1;
+    margin-bottom: 2rem;
+}
+
+.main-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 5rem;
+    padding: 5rem 8%;
+}
+
+.main-txt{
+    flex: 1;
+    max-width: 750px;
+}
+
+.card-container{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    margin-top: 6rem;
+}
+
+.card{
+    width: 100%;
+    max-width: 520px;
+    padding: 3rem;
+
+    background: rgba(255,255,255,0.03);
+
+    border: 1px solid rgba(255,255,255,0.08);
+
+    border-radius: 30px;
+
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+
+    position: relative;
+    overflow: hidden;
+
+    box-shadow:
+        0 10px 40px rgba(0,0,0,0.4),
+        0 0 30px rgba(168,85,247,0.08);
+
+    transition: 0.35s ease;
+}
+
+.card::before{
+    content: "";
+    position: absolute;
+    top: -80px;
+    right: -80px;
+
+    width: 220px;
+    height: 220px;
+
+    background: rgba(168,85,247,0.18);
+
+    border-radius: 50%;
+
+    filter: blur(40px);
+}
+
+.card:hover{
+    transform: translateY(-10px);
+
+    border: 1px solid rgba(168,85,247,0.35);
+
+    box-shadow:
+        0 20px 60px rgba(0,0,0,0.5),
+        0 0 40px rgba(168,85,247,0.2);
+}
+
+.info-box{
+    margin-bottom: 2.5rem;
+}
+
+.info-title{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+    color: #a855f7;
+
+    font-size: 0.95rem;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+
+    margin-bottom: 1rem;
+}
+
+.info-title i{
+    font-size: 1.1rem;
+}
+
+.card-txt{
+    font-size: 2rem;
+    font-weight: 800;
+    color: white;
+    line-height: 1.4;
+}
