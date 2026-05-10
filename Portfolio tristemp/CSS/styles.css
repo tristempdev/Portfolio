@@ -116,3 +116,10 @@ body {
     border: 2px solid #663399;
     transform: translateY(-3px);
 }
+
+.copyr{
+    color: white;
+    margin-top: 7.5rem;
+    opacity: 0.4;
+    margin-left: 3rem;
+}
