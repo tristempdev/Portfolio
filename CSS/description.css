@@ -151,3 +151,10 @@ body{
     color: white;
     line-height: 1.4;
 }
+
+.copyr{
+    color: white;
+    margin-top: 7.5rem;
+    opacity: 0.4;
+    margin-left: 3rem;
+}
