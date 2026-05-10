@@ -14,8 +14,8 @@ Je me prépare intensivement pour intégrer l'**École 42** en France. Ce projet
 N'hésitez pas à jeter un œil à mes fichiers de code ou à me suivre sur GitHub pour voir mon évolution jusqu'à l'entrée à 42 !
 
 ---
-<div align= "center">
-  <a href="https://tristempdev.github.io/Portfolio/web/index.html">
-  <img src="./preview.png" alt="Aperçu du Portfolio de Tristemp" width="100%">
+<div align="center">
+  <a href="https://tristempdev.github.io/Portfolio/index.html">
+    <img src="Portfolio tristemp/media/preview.png" alt="Aperçu du Portfolio" width="100%">
   </a>
 </div>
