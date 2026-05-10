@@ -11,7 +11,7 @@ Je me prépare pour intégrer l'**École 42**.
 ---
 
 <div align="center">
-<a href="https://github.com/tristempdev/Portfolio/blob/main/Portfolio%20tristemp/index.html">
+<a href="https://tristempdev.github.io/Portfolio/Portfolio%20tristemp/index.html">
     <img src="preview.png" alt="Aperçu du Portfolio" width="100%">
   </a>
 </div>
